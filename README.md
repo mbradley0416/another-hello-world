@@ -1,2 +1,2 @@
-# another-hello-world
-My repository for Fundamentals of Information Systems  class.
+# Dr. Pamela Thompson
+## My github account for code created while an undergraduate at Catawba College.
